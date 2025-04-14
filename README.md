@@ -1,9 +1,13 @@
-# serveRestAPI
-Criação de testes de API utilizando postman, newman e newman-htmlextra
+# Bootcamp 01 Qualiters Club
+Teste de API do manual ao CI/CD 
 
 ## O que é 
+Este repositório foi criado para o bootcamp de teste de API Rest
 
 ## Tecnologia utilizada
+Postman
+newman
+newmana-htmlextra
 
 ## Documentações
 
