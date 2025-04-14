@@ -5,9 +5,9 @@ Teste de API do manual ao CI/CD
 Este repositório foi criado para o bootcamp de teste de API Rest
 
 ## Tecnologia utilizada
-Postman
-newman
-newmana-htmlextra
+- Postman
+- newman
+- newmana-htmlextra
 
 ## Documentações
 
