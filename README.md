@@ -17,10 +17,12 @@ Doc da API https://serverest.dev/
 - Instale o node em seu PC
 - Realize a instalação do newman de forma global
 - Realize a instalação dos relatórios
-  
 
-
+```
+$ npm install -g newman
+```
 ## Como rodar os testes
+
 
 ## Entre em contato
 
