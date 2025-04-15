@@ -22,7 +22,10 @@ Doc da API https://serverest.dev/
 $ npm install -g newman
 ```
 ## Como rodar os testes
-
+### Pelo postman web ou desktop
+- importe a collection e o enviroment
+- execute os testes de forma manual ou automatizado
+### Pelo newnam
 
 ## Entre em contato
 
