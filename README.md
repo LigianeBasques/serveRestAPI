@@ -28,12 +28,10 @@ $ npm install -g newman
 ### Pelo newnam
 - abra o console de sua preferência
 - execute a seguinte linha de comando para rodar os testes
-
-  ```
-  ```
+- execute os testes com relatórios
   
-
 ## Entre em contato
+ligianealzie25@gmail.com
 
 
 
