@@ -26,6 +26,12 @@ $ npm install -g newman
 - importe a collection e o enviroment
 - execute os testes de forma manual ou automatizado
 ### Pelo newnam
+- abra o console de sua preferência
+- execute a seguinte linha de comando para rodar os testes
+
+  ```
+  ```
+  
 
 ## Entre em contato
 
